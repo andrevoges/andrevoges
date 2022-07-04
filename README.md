@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @andrevoges
+- 👋 Hi, I’m Andre Voges
 - 👀 I’m interested in:
   - Software Engineering
+  - Java Development
+  - Camping :)
 - 🌱 I’m currently learning:
   - AWS ECS and ECR
 - 💞️ I’m looking to collaborate on:
