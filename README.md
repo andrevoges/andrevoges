@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andre Voges
+- 👋 Hi, I’m @andrevoges
 - 👀 I’m interested in:
   - Software Engineering
 - 🌱 I’m currently learning:
