@@ -7,6 +7,8 @@
   - AWS ECS and ECR
 - 💞️ I’m looking to collaborate on:
   - Deployment automation using Terraform
+- 🚧 Currently working on:
+  - [Terraform and Ansible (TAA)](https://github.com/andrevoges/TAA) 
 - 📫 My LinkedIn profile:
   [Andre Voges](https://www.linkedin.com/in/andre-voges-aab64672)
 
